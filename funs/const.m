@@ -1,0 +1,1 @@
+function f = const(a); f = @(varargin) a; end 
